@@ -1,0 +1,12 @@
+button {
+    width:200px;
+    height: 40px;
+    padding: 10px;
+    background: #222232;
+    color: white;
+    border: 1px solid white;
+}
+
+h1 {
+    margin: 10px;
+}
